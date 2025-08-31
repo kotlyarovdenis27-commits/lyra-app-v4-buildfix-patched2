@@ -1,0 +1,697 @@
+[
+  {
+    "id": "q1_budget",
+    "text": "What budget range are you considering for your yacht or boat?",
+    "hint": "Please think of the purchase price, not yearly running costs.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Up to $1M | 2) $1–4M | 3) $4–10M | 4) $10M+"
+      }
+    ],
+    "phase": 1,
+    "priority": 100
+  },
+  {
+    "id": "q2_guests",
+    "text": "How many guests would you like to host comfortably on board (day trips)?",
+    "hint": "Include family and friends who may join you.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Up to 4 | 2) 5–8 | 3) 9–12 | 4) More than 12"
+      }
+    ],
+    "phase": 1,
+    "priority": 90
+  },
+  {
+    "id": "q3_luxury",
+    "text": "How important are the level of finish and the shipyard’s reputation for you?",
+    "hint": "Think of interior quality and a prestigious name.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Basic comfort is fine | 2) Balanced quality | 3) Premium finish is important"
+      }
+    ],
+    "phase": 1,
+    "priority": 80
+  },
+  {
+    "id": "q4_when",
+    "text": "When do you plan to make the purchase?",
+    "hint": "Choose the timing that feels right for you.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Within 6 months | 2) 6–12 months | 3) 12–24 months | 4) Not decided yet"
+      }
+    ],
+    "phase": 1,
+    "priority": 70
+  },
+  {
+    "id": "q5_flex",
+    "text": "How flexible is your budget?",
+    "hint": "Would you stretch if the yacht or boat feels perfect?",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Prefer to stay within limits | 2) Can stretch a little | 3) Flexible if it’s the right choice"
+      }
+    ],
+    "phase": 1,
+    "priority": 60
+  },
+  {
+    "id": "q6_usage",
+    "text": "In one or two sentences, please describe how you imagine using your yacht or boat.",
+    "hint": "For example: family trips, swimming, weekend getaways, events, fishing.",
+    "type": "free",
+    "options": [],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q7_days_per_year",
+    "text": "How many days per year do you expect to use your yacht or boat?",
+    "hint": "A rough estimate is enough.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Less than 30 days | 2) 30–60 days | 3) 60+ days"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q8_priority",
+    "text": "What matters more to you?",
+    "hint": "Choose what feels closer to your lifestyle.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Economy of ownership | 2) Balance of all factors | 3) Wow-effect and status"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q9_lifestyle",
+    "text": "What best describes your lifestyle on the water?",
+    "hint": "This helps us understand if you need something simple, spacious, or with crew.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Casual — easy outings, swim, relax | 2) Social — hosting friends and family often | 3) Extended — long stays on board, comfort matters | 4) Prestige — status and exclusivity are important"
+      }
+    ],
+    "phase": 2,
+    "priority": 95
+  },
+  {
+    "id": "q10_expectations",
+    "text": "What are your main expectations from owning a yacht or boat?",
+    "hint": "Choose what feels closest to your dream.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Freedom and simplicity | 2) Family leisure and comfort | 3) Entertaining guests in style | 4) Exploration and travel"
+      }
+    ],
+    "phase": 2,
+    "priority": 92
+  },
+  {
+    "id": "q11_scenarios",
+    "text": "Which scenario describes your plans best?",
+    "hint": "Pick the closest one.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Quiet family relaxation | 2) Trips with friends and social time | 3) Hosting events | 4) Fishing and water sports | 5) Traveling long distances"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q12_materials",
+    "text": "How important is the choice of materials and finishes inside?",
+    "hint": "For example: leather, stone, wood details.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not very important | 2) Nice to have good finishes | 3) Very important, I want premium interior"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q13_propulsion",
+    "text": "Do you prefer motor or sailing?",
+    "hint": "This defines the type of yacht.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Motor | 2) Sailing | 3) No preference"
+      }
+    ],
+    "phase": 2,
+    "priority": 90
+  },
+  {
+    "id": "q14_nights",
+    "text": "How many nights in a row do you plan to stay on board?",
+    "hint": "Think of your longest trips.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Only day trips | 2) 1–2 nights | 3) 3–7 nights | 4) A week or more"
+      }
+    ],
+    "phase": 2,
+    "priority": 88
+  },
+  {
+    "id": "q15_vibe",
+    "text": "Which atmosphere do you value more?",
+    "hint": "Think of how you want to feel on board.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Calm and comfort | 2) Balanced | 3) Speed and excitement"
+      }
+    ],
+    "phase": 2,
+    "priority": 86
+  },
+  {
+    "id": "q16_days_trip",
+    "text": "How many days do you usually imagine per trip?",
+    "hint": "For example: weekend vs. weeks away.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Day trips only | 2) 2–3 days | 3) 1 week | 4) 2+ weeks"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q17_speed",
+    "text": "How important is speed for you?",
+    "hint": "Think of cruising fast vs. pure comfort.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Somewhat important | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q18_stability",
+    "text": "How sensitive are you and your guests to motion at sea?",
+    "hint": "Catamarans feel more stable than monohulls.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not sensitive | 2) A little sensitive | 3) Very sensitive, stability is key"
+      }
+    ],
+    "phase": 2,
+    "priority": 84
+  },
+  {
+    "id": "q19_crew",
+    "text": "Would you like to run the yacht yourself or with crew?",
+    "hint": "Some yachts are best with a captain and crew.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Self-run, no crew | 2) Captain only | 3) Captain with crew"
+      }
+    ],
+    "phase": 2,
+    "priority": 82
+  },
+  {
+    "id": "q20_cabin_privacy",
+    "text": "How important is privacy between cabins?",
+    "hint": "For example, guest cabins away from the master cabin.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Some privacy would be nice | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q21_headroom",
+    "text": "Do you pay attention to ceiling height inside?",
+    "hint": "Taller guests may appreciate more headroom.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Somewhat important | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q22_passages",
+    "text": "How important is the width of walkways and passages?",
+    "hint": "Wider passages add comfort.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Nice to have | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q23_sundeck",
+    "text": "How important is a spacious sun deck for you?",
+    "hint": "Think of lounging and sunbathing outside.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Nice to have | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q24_interior_vs_outdoor",
+    "text": "What matters more: interior space or outdoor deck space?",
+    "hint": "Helps to balance between motor yachts and catamarans.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Interior is more important | 2) Both equally | 3) Outdoor space is more important"
+      }
+    ],
+    "phase": 2,
+    "priority": 80
+  },
+  {
+    "id": "q25_generator",
+    "text": "Do you expect a generator and stabilizers on board?",
+    "hint": "These show comfort and class.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not necessary | 2) Nice to have | 3) Essential for me"
+      }
+    ],
+    "phase": 2,
+    "priority": 78
+  },
+  {
+    "id": "q26_range",
+    "text": "How important is cruising range for you?",
+    "hint": "Long trips vs. short coastal cruising.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Somewhat important | 3) Very important"
+      }
+    ],
+    "phase": 2,
+    "priority": 76
+  },
+  {
+    "id": "q27_noise",
+    "text": "How important is low noise inside while cruising?",
+    "hint": "Some prefer very quiet cabins.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Nice to have | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q28_design_style",
+    "text": "Which design style do you prefer?",
+    "hint": "This helps align with the right builders.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Classic | 2) Modern | 3) No preference"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q29_toys",
+    "text": "Would you like to carry water toys or a tender?",
+    "hint": "For example: jet ski or a small boat.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not needed | 2) Nice to have | 3) Essential for me"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q30_green",
+    "text": "How important is eco-friendliness for you?",
+    "hint": "Think hybrid, solar or greener solutions.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Somewhat important | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q31_investment",
+    "text": "How important is resale value for you?",
+    "hint": "Keeping the yacht’s value over time.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Somewhat important | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q32_flag",
+    "text": "Do you care which country flag the yacht is registered under?",
+    "hint": "Some flags give tax or legal advantages.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Somewhat important | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q33_service",
+    "text": "How would you like servicing and maintenance to be handled?",
+    "hint": "We can coordinate it for you if you prefer.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "I will manage myself | 2) Prefer support from a service partner"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q34_charter",
+    "text": "Do you consider chartering out the yacht when not using it?",
+    "hint": "This can offset costs but affects usage.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "No | 2) Maybe | 3) Yes"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q35_homeport",
+    "text": "Do you plan to keep the yacht in one port or move between regions?",
+    "hint": "Think about a home base vs. flexible cruising.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "One fixed port | 2) Move between regions"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q36_children",
+    "text": "Will children be frequent guests on board?",
+    "hint": "This influences layout and safety features.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "No | 2) Yes, sometimes | 3) Yes, often"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q37_elderly",
+    "text": "Will elderly guests be on board regularly?",
+    "hint": "Easier access and comfort may be important.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "No | 2) Yes, sometimes | 3) Yes, often"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q38_pets",
+    "text": "Will pets be on board?",
+    "hint": "Space and access matter for pets too.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "No | 2) Yes"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q39_safety",
+    "text": "How important are safety and easy movement on deck?",
+    "hint": "Higher rails, protected walkways, wider passages.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Standard is fine | 2) I want it safer and easier to move"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q40_shade",
+    "text": "How important is shade on deck?",
+    "hint": "Fixed hardtop or large bimini for sun protection.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Nice to have | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q41_fishing",
+    "text": "Would you like fishing to be part of your program?",
+    "hint": "Rod holders, live wells, easy washdown help.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "No | 2) Sometimes | 3) Yes, regularly"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q42_dive",
+    "text": "Do you plan to dive or snorkel often?",
+    "hint": "Swim platform and gear storage are useful.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "No | 2) Sometimes | 3) Yes, regularly"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q43_swim_platform",
+    "text": "How important is a large swim platform and easy sea access?",
+    "hint": "Great for swimming, toys, and tender access.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Nice to have | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q44_cooking",
+    "text": "How much do you plan to cook on board?",
+    "hint": "This affects galley size and equipment.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Light snacks only | 2) Regular cooking | 3) Frequent cooking for guests"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q45_showers",
+    "text": "Do you expect private showers and bathrooms for guests?",
+    "hint": "Ensuite facilities increase comfort and size.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Shared is fine | 2) Prefer some private bathrooms | 3) Ensuite for most cabins"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q46_privacy_zones",
+    "text": "How important are separate private zones on board?",
+    "hint": "For example, quiet areas away from main deck.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Nice to have | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q47_flybridge_helm",
+    "text": "Which helm style do you prefer?",
+    "hint": "Open flybridge vs. enclosed, protected helm.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Open flybridge | 2) Enclosed / protected helm | 3) No preference"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q48_automation",
+    "text": "How important are smart systems and easy controls?",
+    "hint": "Bow thruster, joystick, auto systems ease handling.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Nice to have | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q49_entertainment",
+    "text": "How important are entertainment systems on board?",
+    "hint": "Audio, video, outdoor cinema, party mode.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Nice to have | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  },
+  {
+    "id": "q50_internet",
+    "text": "How important is reliable internet on board?",
+    "hint": "Satellite or cellular solutions for coverage.",
+    "type": "single",
+    "options": [
+      {
+        "id": "1",
+        "label": "Not important | 2) Nice to have | 3) Very important"
+      }
+    ],
+    "phase": 3,
+    "priority": 50
+  }
+]

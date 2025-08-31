@@ -1,0 +1,80 @@
+[
+  {
+    "class_id": "rib",
+    "name": "RIB",
+    "summary": "Light, fast boat with tubes. Day use and transfers.",
+    "why_base": ""
+  },
+  {
+    "class_id": "daysailer",
+    "name": "Daysailer",
+    "summary": "Open day cruiser for simple outings and company on board.",
+    "why_base": ""
+  },
+  {
+    "class_id": "weekender",
+    "name": "Weekender",
+    "summary": "Compact cabin boat for 1–2 nights with 2–6 people.",
+    "why_base": ""
+  },
+  {
+    "class_id": "motorboat",
+    "name": "Motorboat",
+    "summary": "Mid-size cabin motor cruiser with comfortable salon.",
+    "why_base": ""
+  },
+  {
+    "class_id": "sail_boat",
+    "name": "Sailboat",
+    "summary": "Monohull sailboat for calm cruising and sailing emotions.",
+    "why_base": ""
+  },
+  {
+    "class_id": "motor_yacht",
+    "name": "Motor Yacht",
+    "summary": "Spacious motor yacht with full interior and lounging areas.",
+    "why_base": ""
+  },
+  {
+    "class_id": "sailing_yachts",
+    "name": "Sailing Yachts",
+    "summary": "Larger sailing yachts for longer stays on board.",
+    "why_base": ""
+  },
+  {
+    "class_id": "motor_catamaran",
+    "name": "Motor Catamaran",
+    "summary": "Two-hull platform with generous space and stability. Uses motor 100%.",
+    "why_base": ""
+  },
+  {
+    "class_id": "sailing_catamaran",
+    "name": "Sailing Catamaran",
+    "summary": "Two-hull platform with generous space and stability.",
+    "why_base": ""
+  },
+  {
+    "class_id": "motor_superyacht",
+    "name": "Motor Superyacht",
+    "summary": "Superyacht with crew, high service level and guest areas.",
+    "why_base": ""
+  },
+  {
+    "class_id": "sailing_superyacht",
+    "name": "Sailing Superyacht",
+    "summary": "Large sailing superyacht for status and long programs.",
+    "why_base": ""
+  },
+  {
+    "class_id": "luxury_catamaran",
+    "name": "Luxury Catamaran",
+    "summary": "Premium catamaran with maximum space and comfort.",
+    "why_base": ""
+  },
+  {
+    "class_id": "megayacht",
+    "name": "Megayacht",
+    "summary": "60m+ mega yacht with large crew, garages and complex logistics.",
+    "why_base": ""
+  }
+]

@@ -1,0 +1,6327 @@
+{
+  "q10_expectations": {
+    "cruising": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "entertain": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "entertaining guests in style": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "entertaining-guests-in-style": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "entertaining/guests/in/style": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "entertainingguestsinstyle": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "exploration": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "exploration and travel": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "exploration-and-travel": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "exploration/and/travel": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "explorationandtravel": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "family": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "family leisure and comfort": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "family time": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "family-leisure-and-comfort": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "family-time": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "family/leisure/and/comfort": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "family/time": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "familyleisureandcomfort": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "familytime": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "freedom": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "freedom and simplicity": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "freedom-and-simplicity": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "freedom/and/simplicity": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "freedomandsimplicity": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "party": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "represent": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "voyage": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "без экипажа": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "без-экипажа": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "без/экипажа": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "безэкипажа": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "далекие путешествия": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0
+    },
+    "дальние переходы": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "дальние-переходы": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "дальние/переходы": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "дальниепереходы": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "дети": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "исследовать": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "комфорт": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "минимум забот": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "минимум-забот": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "минимум/забот": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "минимумзабот": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "пати": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "представительность": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "просто и быстро": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "просто-и-быстро": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "просто/и/быстро": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "простоибыстро": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "простота": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "путешествия": {
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "sail_boat": 1.0
+    },
+    "семейный отдых": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "семья": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    },
+    "стильно принимать гостей": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "стильно-принимать-гостей": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "стильно/принимать/гостей": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "стильноприниматьгостей": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "удобство": {
+      "weekender": 1.0,
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0
+    }
+  },
+  "q13_propulsion": {
+    "motor": {
+      "sail_boat": -2.0,
+      "daysailer": -2.0,
+      "sailing_yachts": -2.0,
+      "sailing_superyacht": -2.0,
+      "sailing_catamaran": -2.0
+    },
+    "powerboat": {
+      "sail_boat": -2.0,
+      "daysailer": -2.0,
+      "sailing_yachts": -2.0,
+      "sailing_superyacht": -2.0,
+      "sailing_catamaran": -2.0
+    },
+    "sail": {
+      "sail_boat": 2.0,
+      "daysailer": 2.0,
+      "sailing_yachts": 2.0,
+      "sailing_superyacht": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "rib": -2.0,
+      "motorboat": -2.0,
+      "motor_yacht": -2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0,
+      "motor_catamaran": -2.0
+    },
+    "sailing": {
+      "sail_boat": 2.0,
+      "daysailer": 2.0,
+      "sailing_yachts": 2.0,
+      "sailing_superyacht": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "rib": -2.0,
+      "motorboat": -2.0,
+      "motor_yacht": -2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0,
+      "motor_catamaran": -2.0
+    },
+    "двигатель": {
+      "sail_boat": -2.0,
+      "daysailer": -2.0,
+      "sailing_yachts": -2.0,
+      "sailing_superyacht": -2.0,
+      "sailing_catamaran": -2.0
+    },
+    "мотор": {
+      "sail_boat": -2.0,
+      "daysailer": -2.0,
+      "sailing_yachts": -2.0,
+      "sailing_superyacht": -2.0,
+      "sailing_catamaran": -2.0
+    },
+    "моторная": {
+      "sail_boat": -2.0,
+      "daysailer": -2.0,
+      "sailing_yachts": -2.0,
+      "sailing_superyacht": -2.0,
+      "sailing_catamaran": -2.0
+    },
+    "парус": {
+      "sail_boat": 2.0,
+      "daysailer": 2.0,
+      "sailing_yachts": 2.0,
+      "sailing_superyacht": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "rib": -2.0,
+      "motorboat": -2.0,
+      "motor_yacht": -2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0,
+      "motor_catamaran": -2.0
+    },
+    "парусная": {
+      "sail_boat": 2.0,
+      "daysailer": 2.0,
+      "sailing_yachts": 2.0,
+      "sailing_superyacht": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "rib": -2.0,
+      "motorboat": -2.0,
+      "motor_yacht": -2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0,
+      "motor_catamaran": -2.0
+    }
+  },
+  "q14_nights": {
+    "1 - 2 nights": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "1 to 2 nights": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "1-2 nights": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "1-2-nights": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "1-2/nights": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "1-2nights": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "1..2 nights": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "3 - 7 nights": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "3 to 7 nights": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "3-7 nights": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "3-7-nights": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "3-7/nights": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "3-7nights": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "3..7 nights": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    ">7 nights": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    ">7-nights": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    ">7/nights": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    ">7nights": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "a week or more": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "a-week-or-more": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "a/week/or/more": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "aweekormore": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "day trips": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "day-trips": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "day/trips": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "daytrips": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "long cruise": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "long-cruise": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "long/cruise": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "longcruise": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "only day trips": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "only-day-trips": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "only/day/trips": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "onlydaytrips": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "week or more": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "week-or-more": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "week/or/more": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "weekend": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "weekormore": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "без ночевок": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "без-ночевок": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "без/ночевок": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "безночевок": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "выходные": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "дневные выходы": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "дневные-выходы": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "дневные/выходы": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "дневныевыходы": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "долгая поездка": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "долгая-поездка": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "долгая/поездка": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "долгаяпоездка": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "долгое плавание": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "долгое-плавание": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "долгое/плавание": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "долгоеплавание": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "sailing_superyacht": 1.0,
+      "rib": -1.0,
+      "motorboat": -1.0,
+      "daysailer": -1.0
+    },
+    "короткий крейсер": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "короткий-крейсер": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "короткий/крейсер": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "короткийкрейсер": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "на день": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "на-день": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "на/день": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "надень": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "sailing_yachts": -1.0,
+      "luxury_catamaran": -1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "неделя": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "несколько ночей": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "несколько-ночей": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "несколько/ночей": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "нескольконочей": {
+      "motor_yacht": 2.0,
+      "sailing_yachts": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0
+    },
+    "пара ночей": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "пара-ночей": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "пара/ночей": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "параночей": {
+      "weekender": 2.0,
+      "motorboat": 2.0,
+      "sail_boat": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    }
+  },
+  "q15_vibe": {
+    "calm": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "rib": -0.6,
+      "daysailer": -0.6
+    },
+    "calm and comfort": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "rib": -0.6,
+      "daysailer": -0.6
+    },
+    "calm-and-comfort": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "rib": -0.6,
+      "daysailer": -0.6
+    },
+    "calm/and/comfort": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "rib": -0.6,
+      "daysailer": -0.6
+    },
+    "calmandcomfort": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "rib": -0.6,
+      "daysailer": -0.6
+    },
+    "smooth ride": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "speed": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "speed and excitement": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "speed-and-excitement": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "speed/and/excitement": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "speedandexcitement": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "быстро": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "драйв": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "комфорт": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "rib": -0.6,
+      "daysailer": -0.6
+    },
+    "покатушки": {
+      "rib": 0.8,
+      "motorboat": 0.8,
+      "daysailer": 0.6
+    },
+    "скорость": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "спокойствие": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "rib": -0.6,
+      "daysailer": -0.6
+    },
+    "устойчивость": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "rib": -0.6,
+      "daysailer": -0.6
+    },
+    "эмоции": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_yacht": -1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "luxury_catamaran": -1.0
+    }
+  },
+  "q18_stability": {
+    "a little sensitive": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "a-little-sensitive": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "a/little/sensitive": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "alittlesensitive": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "seasick": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "slightly sensitive": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "slightly-sensitive": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "slightly/sensitive": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "slightlysensitive": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "smooth": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "very sensitive, stability is key": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "very-sensitive,-stability-is-key": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "very/sensitive,/stability/is/key": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "verysensitive,stabilityiskey": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "важна стабильность": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "важна-стабильность": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "важна/стабильность": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "важнастабильность": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "качает": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "качка": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "морская болезнь": {
+      "motor_catamaran": 1.2,
+      "sailing_catamaran": 1.2,
+      "luxury_catamaran": 1.0
+    },
+    "мягкость": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "очень чувствителен": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "очень-чувствителен": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "очень/чувствителен": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "оченьчувствителен": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "слегка чувствителен": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "слегка-чувствителен": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "слегка/чувствителен": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "слегкачувствителен": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "устойчивость ключевое": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "устойчивость-ключевое": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "устойчивость/ключевое": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    },
+    "устойчивостьключевое": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "sail_boat": -0.6,
+      "daysailer": -0.6
+    }
+  },
+  "q19_crew": {
+    "captain only": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "captain with crew": {
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "captain-only": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "captain-with-crew": {
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "captain/only": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "captain/with/crew": {
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "captainonly": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "captainwithcrew": {
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "crew": {
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "owner-operator": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "self-run, no crew": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "self-run,-no-crew": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "self-run,/no/crew": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "self-run,nocrew": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "skipper": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "без экипажа": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "без-экипажа": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "без/экипажа": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "безэкипажа": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "капитан": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "полный экипаж": {
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "полный-экипаж": {
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "полный/экипаж": {
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "полныйэкипаж": {
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "сам буду управлять": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "сам-буду-управлять": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "сам/буду/управлять": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "самбудууправлять": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "самостоятельно": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "стewardess": {
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "только капитан": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "только-капитан": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "только/капитан": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "толькокапитан": {
+      "motor_yacht": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "экипаж": {
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    }
+  },
+  "q1_budget": {
+    "$1 - 4m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "$1 to 4m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "$1-4m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "$1..4m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "$4 - 10m": {
+      "megayacht": -1.0
+    },
+    "$4 to 10m": {
+      "megayacht": -1.0
+    },
+    "$4-10m": {
+      "megayacht": -1.0
+    },
+    "$4..10m": {
+      "megayacht": -1.0
+    },
+    "1 - 4m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "1 000 000": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "1 to 4 m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "1 to 4m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "1-000-000": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "1-4 m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "1-4m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "1-to-4-m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "1..4m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "1/000/000": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "1/to/4/m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "1000000": {
+      "motor_catamaran": -1.2,
+      "sailing_catamaran": -1.2,
+      "motor_yacht": -2.0,
+      "motor_superyacht": -2.0,
+      "sailing_superyacht": -2.0,
+      "megayacht": -2.0,
+      "luxury_catamaran": -2.0
+    },
+    "1to4m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "2m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "3m": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "4 - 10m": {
+      "megayacht": -1.0
+    },
+    "4 to 10 m": {
+      "megayacht": -1.0
+    },
+    "4 to 10m": {
+      "megayacht": -1.0
+    },
+    "4-10 m": {
+      "megayacht": -1.0
+    },
+    "4-10m": {
+      "megayacht": -1.0
+    },
+    "4-to-10-m": {
+      "megayacht": -1.0
+    },
+    "4..10m": {
+      "megayacht": -1.0
+    },
+    "4/to/10/m": {
+      "megayacht": -1.0
+    },
+    "4to10m": {
+      "megayacht": -1.0
+    },
+    "5m": {
+      "megayacht": -1.0
+    },
+    "6m": {
+      "megayacht": -1.0
+    },
+    "7m": {
+      "megayacht": -1.0
+    },
+    "8m": {
+      "megayacht": -1.0
+    },
+    "9m": {
+      "megayacht": -1.0
+    },
+    "<1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "<=1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "around 1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "around-1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "around/1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "around1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "mid budget": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "mid-budget": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "mid/budget": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "midbudget": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "one million": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "one-million": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "one/million": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "onemillion": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "small budget": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "small-budget": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "small/budget": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "smallbudget": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "under a million": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "under-a-million": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "under/a/million": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "underamillion": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "up to $1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "up to 1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "up-$1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "up-1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "up-to-$1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "up-to-1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "up/to/$1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "up/to/1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "upper mid budget": {
+      "megayacht": -1.0
+    },
+    "upper-mid-budget": {
+      "megayacht": -1.0
+    },
+    "upper/mid/budget": {
+      "megayacht": -1.0
+    },
+    "uppermidbudget": {
+      "megayacht": -1.0
+    },
+    "upto$1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "upto1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "~1m": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "бюджет 10+": {
+      "megayacht": 1.0,
+      "motor_superyacht": 1.0
+    },
+    "бюджет до 1": {
+      "motor_yacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "выше среднего": {
+      "megayacht": -1.0
+    },
+    "выше-среднего": {
+      "megayacht": -1.0
+    },
+    "выше/среднего": {
+      "megayacht": -1.0
+    },
+    "вышесреднего": {
+      "megayacht": -1.0
+    },
+    "до 1м": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "до миллиона": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "до-1м": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "до-миллиона": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "до/1м": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "до/миллиона": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "до1м": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "домиллиона": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "крупный бюджет": {
+      "megayacht": -1.0
+    },
+    "крупный-бюджет": {
+      "megayacht": -1.0
+    },
+    "крупный/бюджет": {
+      "megayacht": -1.0
+    },
+    "крупныйбюджет": {
+      "megayacht": -1.0
+    },
+    "несколько миллионов": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "несколько-миллионов": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "несколько/миллионов": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "несколькомиллионов": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "низкий бюджет": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "низкий-бюджет": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "низкий/бюджет": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "низкийбюджет": {
+      "motor_catamaran": -0.6,
+      "sailing_catamaran": -0.6,
+      "motor_yacht": -1.0,
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "от 1 до 4": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "от-1-до-4": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "от/1/до/4": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "от1до4": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "пару миллионов": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "пару-миллионов": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "пару/миллионов": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "парумиллионов": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "средний бюджет": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "средний-бюджет": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "средний/бюджет": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "среднийбюджет": {
+      "motor_superyacht": -1.0,
+      "sailing_superyacht": -1.0,
+      "megayacht": -1.0
+    }
+  },
+  "q24_interior_vs_outdoor": {
+    "inside comfort": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "inside-comfort": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "inside/comfort": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "insidecomfort": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "interior is more important": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "interior-is-more-important": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "interior/is/more/important": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "interiorismoreimportant": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "outdoor space is more important": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "outdoor-space-is-more-important": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "outdoor/space/is/more/important": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "outdoorspaceismoreimportant": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "интерьер важнее": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "интерьер-важнее": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "интерьер/важнее": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "интерьерважнее": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "каюта важна": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "каюта-важна": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "каюта/важна": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "каютаважна": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "кокпит": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "наружное пространство": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "наружное-пространство": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "наружное/пространство": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "наружноепространство": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "палуба важнее": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "палуба-важнее": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "палуба/важнее": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "палубаважнее": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "салон важен": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "салон-важен": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "салон/важен": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "салонважен": {
+      "motor_yacht": 1.0,
+      "motorboat": 1.0,
+      "motor_catamaran": -1.0,
+      "sailing_catamaran": -1.0,
+      "daysailer": -1.0
+    },
+    "солярий": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    },
+    "флайбридж": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "rib": 1.0,
+      "motor_yacht": -1.0
+    }
+  },
+  "q25_generator": {
+    "essential for me": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "essential-for-me": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "essential/for/me": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "essentialforme": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "must have": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "must-have": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "must/have": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "musthave": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "nice to have": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0
+    },
+    "nice-have": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0
+    },
+    "nice-to-have": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0
+    },
+    "nice/to/have": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0
+    },
+    "nicetohave": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0
+    },
+    "not necessary": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "not-necessary": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "not/necessary": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "notnecessary": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "без генератора": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "без-генератора": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "без/генератора": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "безгенератора": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "важен генератор": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "важен-генератор": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "важен/генератор": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "важенгенератор": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "возможно": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0
+    },
+    "генератор не нужен": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "генератор-не-нужен": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "генератор/не/нужен": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "генераторненужен": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "желательно": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0
+    },
+    "не обязателен": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "не-обязателен": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "не/обязателен": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "необязателен": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "обязательно": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "хорошо бы": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0
+    },
+    "хорошо-бы": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0
+    },
+    "хорошо/бы": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0
+    },
+    "хорошобы": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0
+    }
+  },
+  "q26_range": {
+    "somewhat important": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "somewhat-important": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "somewhat/important": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "somewhatimportant": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "very important": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "very-important": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "very/important": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "veryimportant": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "большая автономность": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "большая-автономность": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "большая/автономность": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "большаяавтономность": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "важна дальность": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "важна-дальность": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "важна/дальность": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "важнадальность": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "иногда важно": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "иногда-важно": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "иногда/важно": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "иногдаважно": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "оcean crossing": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "оcean-crossing": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "оcean/crossing": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "оceancrossing": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "пару сотен миль": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "пару-сотен-миль": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "пару/сотен/миль": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "парусотенмиль": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "средняя дальность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "средняя-дальность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "средняя/дальность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "средняядальность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "транзиты": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    }
+  },
+  "q27_noise": {
+    "nice to have": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nice to have quiet": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nice-have": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nice-have quiet": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nice-to-have": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nice-to-have-quiet": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nice/to/have": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nice/to/have/quiet": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nicetohave": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nicetohavequiet": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "very important": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "very-important": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "very/important": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "veryimportant": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "важна тишина": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "важна-тишина": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "важна/тишина": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "важнатишина": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "желательно потише": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "желательно-потише": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "желательно/потише": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "желательнопотише": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "минимум шума": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "минимум-шума": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "минимум/шума": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "минимумшума": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "очень тихо": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "очень-тихо": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "очень/тихо": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "оченьтихо": {
+      "luxury_catamaran": 1.0,
+      "motor_yacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "пониженный шум": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "пониженный-шум": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "пониженный/шум": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "пониженныйшум": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    }
+  },
+  "q29_toys": {
+    "essential for me": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "essential-for-me": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "essential/for/me": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "essentialforme": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "jetski": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "nice to have": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nice-have": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nice-to-have": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nice/to/have": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "nicetohave": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "sup, seabob": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "sup,-seabob": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "sup,/seabob": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "sup,seabob": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "tender garage": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "tender-garage": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "tender/garage": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "tendergarage": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "желательны игрушки": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "желательны-игрушки": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "желательны/игрушки": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "желательныигрушки": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "игрушки по возможности": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "игрушки-по-возможности": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "игрушки/по/возможности": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "игрушкиповозможности": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0
+    },
+    "обязательно seabob": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "обязательно игрушки": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "обязательно-seabob": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "обязательно-игрушки": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "обязательно/seabob": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "обязательно/игрушки": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "обязательноseabob": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "обязательноигрушки": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0
+    }
+  },
+  "q2_guests": {
+    "10 people": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "10-people": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "10/people": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "10people": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "12": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "12 +": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "12 plus": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "12+": {
+      "motor_superyacht": 1.5,
+      "luxury_catamaran": 1.5,
+      "megayacht": 1.5,
+      "rib": -1.2,
+      "motorboat": -1.2,
+      "daysailer": -1.2,
+      "sailing_superyacht": 1.5,
+      "weekender": -1.2
+    },
+    "2-4": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "5 to 8": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "5-8": {
+      "motorboat": 3.0,
+      "weekender": 3.0,
+      "motor_catamaran": 3.0,
+      "sailing_catamaran": 3.0,
+      "sail_boat": 3.0
+    },
+    "5-to-8": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "5..8": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "5/to/8": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "5to8": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "6 people": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "6-people": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "6/people": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "6people": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "9 to 12": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "9-12": {
+      "motor_yacht": 3.0,
+      "motor_catamaran": 3.0,
+      "sailing_catamaran": 3.0,
+      "luxury_catamaran": 3.0,
+      "sailing_yachts": 3.0,
+      "rib": -2.4,
+      "daysailer": -2.4
+    },
+    "9-to-12": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "9/to/12": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "9to12": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "> 12": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    ">12": {
+      "motor_superyacht": 2.4,
+      "luxury_catamaran": 2.4,
+      "megayacht": 2.4,
+      "rib": -1.2,
+      "motorboat": -1.2,
+      "daysailer": -1.2,
+      "sailing_superyacht": 1.5,
+      "weekender": -1.2
+    },
+    "couple": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "few people": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "few-people": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "few/people": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "fewpeople": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "more than 12": {
+      "motor_superyacht": 2.2,
+      "luxury_catamaran": 2.2,
+      "megayacht": 2.2,
+      "rib": -1.2,
+      "motorboat": -1.2,
+      "daysailer": -1.2,
+      "sailing_superyacht": 1.5,
+      "weekender": -1.2
+    },
+    "more than twelve": {
+      "motor_superyacht": 2.4,
+      "luxury_catamaran": 2.4,
+      "megayacht": 2.4,
+      "rib": -1.2,
+      "motorboat": -1.2,
+      "daysailer": -1.2,
+      "sailing_superyacht": 1.5,
+      "weekender": -1.2
+    },
+    "more-than-12": {
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "megayacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "more-than-twelve": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "more/than/12": {
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "megayacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "more/than/twelve": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "morethan12": {
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "megayacht": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "morethantwelve": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "small group": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "small-group": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "small/group": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "smallgroup": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "up to 4": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "up-4": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "up-to-4": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "up/to/4": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "upto4": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "большая компания": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "большая-компания": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "большая/компания": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "большаякомпания": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "большие мероприятия": {
+      "motor_superyacht": 1.5,
+      "luxury_catamaran": 1.5,
+      "megayacht": 1.5,
+      "rib": -1.2,
+      "motorboat": -1.2,
+      "daysailer": -1.2,
+      "sailing_superyacht": 1.5,
+      "weekender": -1.2
+    },
+    "большие-мероприятия": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "большие/мероприятия": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "большиемероприятия": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "вечеринки": {
+      "motor_superyacht": 1.5,
+      "luxury_catamaran": 1.5,
+      "megayacht": 1.5,
+      "rib": -1.2,
+      "motorboat": -1.2,
+      "daysailer": -1.2,
+      "sailing_superyacht": 1.5,
+      "weekender": -1.2
+    },
+    "две семьи": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "две-семьи": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "две/семьи": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "двесемьи": {
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "luxury_catamaran": 2.0,
+      "sailing_yachts": 2.0,
+      "rib": -1.2,
+      "daysailer": -1.2
+    },
+    "до 4": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "до-4": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "до/4": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "до4": {
+      "rib": 2.0,
+      "motorboat": 2.0,
+      "daysailer": 2.0,
+      "weekender": 2.0,
+      "motor_superyacht": -2.0,
+      "megayacht": -2.0
+    },
+    "очень много гостей": {
+      "motor_superyacht": 1.5,
+      "luxury_catamaran": 1.5,
+      "megayacht": 1.5,
+      "rib": -1.2,
+      "motorboat": -1.2,
+      "daysailer": -1.2,
+      "sailing_superyacht": 1.5,
+      "weekender": -1.2
+    },
+    "очень-много-гостей": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "очень/много/гостей": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "оченьмногогостей": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.2,
+      "megayacht": 1.2,
+      "rib": 1.2,
+      "motorboat": 1.2,
+      "daysailer": 1.2
+    },
+    "семья и друзья": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "семья-и-друзья": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "семья/и/друзья": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "семьяидрузья": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "средняя компания": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "средняя-компания": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "средняя/компания": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    },
+    "средняякомпания": {
+      "motorboat": 2.0,
+      "weekender": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sail_boat": 2.0
+    }
+  },
+  "q30_green": {
+    "hybrid": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "hybrid можно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "hybrid-можно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "hybrid/можно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "hybridможно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "solar": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "solar возможно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "solar-возможно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "solar/возможно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "solarвозможно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "somewhat important": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "somewhat-important": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "somewhat/important": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "somewhatimportant": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "very important": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "very-important": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "very/important": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "veryimportant": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "важна экология": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "важна-экология": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "важна/экология": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "важнаэкология": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "минимум расход": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "минимум-расход": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "минимум/расход": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "минимумрасход": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    },
+    "умеренно важно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "умеренно-важно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "умеренно/важно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "умеренноважно": {
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "daysailer": 1.0
+    },
+    "электрическая": {
+      "sail_boat": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "daysailer": 1.0,
+      "motor_superyacht": -0.6,
+      "megayacht": -0.6
+    }
+  },
+  "q31_investment": {
+    "resale ok": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "resale value": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "resale-ok": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "resale-value": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "resale/ok": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "resale/value": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "resaleok": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "resalevalue": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "somewhat important": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "somewhat-important": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "somewhat/important": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "somewhatimportant": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "very important": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "very-important": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "very/important": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "veryimportant": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "в какой-то степени важно": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "в-какой-то-степени-важно": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "в/какой-то/степени/важно": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "важна ликвидность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "важна-ликвидность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "важна/ликвидность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "важналиквидность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "вкакой-тостепениважно": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "вторичный рынок": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "вторичный-рынок": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "вторичный/рынок": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "вторичныйрынок": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "высокая ликвидность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "высокая-ликвидность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "высокая/ликвидность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "высокаяликвидность": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "инвестиция": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    }
+  },
+  "q33_service": {
+    "crew support": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "crew-support": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "crew/support": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "crewsupport": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "i will manage myself": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "i-will-manage-myself": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "i/will/manage/myself": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "iwillmanagemyself": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "prefer support from a service partner": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "prefer-support-from-a-service-partner": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "prefer/support/from/a/service/partner": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "prefersupportfromaservicepartner": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "technical support": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "technical-support": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "technical/support": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "technicalsupport": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "без сервиса": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "без-сервиса": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "без/сервиса": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "безсервиса": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "нужна поддержка": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "нужна-поддержка": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "нужна/поддержка": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "нужнаподдержка": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "сам буду заниматься": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "сам-буду-заниматься": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "сам/буду/заниматься": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "самбудузаниматься": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "самостоятельно обслуживать": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "самостоятельно-обслуживать": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "самостоятельно/обслуживать": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "самостоятельнообслуживать": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0
+    },
+    "сервис-партнер": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    }
+  },
+  "q34_charter": {
+    "charter yes": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "charter-yes": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "charter/yes": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "charteryes": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "maybe": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "maybe charter": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "maybe-charter": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "maybe/charter": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "maybecharter": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "yes": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "буду сдавать": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "буду-сдавать": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "буду/сдавать": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "будусдавать": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "возможно чартер": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "возможно-чартер": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "возможно/чартер": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "возможночартер": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "да, чартер": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "да,-чартер": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "да,/чартер": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "да,чартер": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "иногда сдавать": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "иногда-сдавать": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "иногда/сдавать": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    },
+    "иногдасдавать": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sailing_yachts": 1.0
+    }
+  },
+  "q35_homeport": {
+    "move between regions": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "move-between-regions": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "move/between/regions": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "movebetweenregions": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "миграция": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "перегонять": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "переезды между регионами": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "переезды-между-регионами": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "переезды/между/регионами": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "переездымеждурегионами": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "разные регионы": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "разные-регионы": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "разные/регионы": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    },
+    "разныерегионы": {
+      "sailing_yachts": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "sail_boat": 1.0,
+      "rib": -0.6,
+      "motorboat": -0.6,
+      "daysailer": -0.6
+    }
+  },
+  "q3_luxury": {
+    "balanced quality": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "balanced-quality": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "balanced/quality": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "balancedquality": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "basic": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "basic comfort is fine": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "basic-comfort-is-fine": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "basic/comfort/is/fine": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "basiccomfortisfine": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "high-end": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "mid-level finish": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "mid-level-finish": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "mid-level/finish": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "mid-levelfinish": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "no frills": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "no-frills": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "no/frills": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "nofrills": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "premium": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "premium finish is important": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "premium-finish-is-important": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "premium/finish/is/important": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "premiumfinishisimportant": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "prestige": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "prestigious": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "simple finish": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "simple-finish": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "simple/finish": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "simplefinish": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "status": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "баланс цена качество": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "баланс-цена-качество": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "баланс/цена/качество": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "балансценакачество": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "без излишеств": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "без-излишеств": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "без/излишеств": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "безизлишеств": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "дорого-богато": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "люксово": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "минимально": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "не супер роскошь": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "не-супер-роскошь": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "не/супер/роскошь": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "неважно бренд": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "неважно-бренд": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "неважно/бренд": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "неважнобренд": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "несуперроскошь": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "премиум": {
+      "motor_yacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "простота": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0,
+      "motor_superyacht": -1.0,
+      "megayacht": -1.0,
+      "luxury_catamaran": -1.0
+    },
+    "хороший уровень": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "хороший-уровень": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "хороший/уровень": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    },
+    "хорошийуровень": {
+      "motorboat": 2.0,
+      "motor_yacht": 2.0,
+      "motor_catamaran": 2.0,
+      "sailing_catamaran": 2.0,
+      "sailing_yachts": 2.0
+    }
+  },
+  "q9_lifestyle": {
+    "casual": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "casual - easy outings, swim, relax": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "casual---easy-outings,-swim,-relax": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "casual-easyoutings,swim,relax": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "casual/-/easy/outings,/swim,/relax": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "day fun": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "day-fun": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "day/fun": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "dayfun": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "extended - long stays on board, comfort matters": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "extended---long-stays-on-board,-comfort-matters": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "extended-longstaysonboard,comfortmatters": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "extended/-/long/stays/on/board,/comfort/matters": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "friends": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "host": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "liveaboard": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "long stays": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "long-stays": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "long/stays": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "longstays": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "party boat": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.0
+    },
+    "prestige": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "prestige - status and exclusivity are important": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "prestige---status-and-exclusivity-are-important": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "prestige-statusandexclusivityareimportant": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "prestige/-/status/and/exclusivity/are/important": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "representation": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "social - hosting friends and family often": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "social---hosting-friends-and-family-often": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "social-hostingfriendsandfamilyoften": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "social/-/hosting/friends/and/family/often": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "swim": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "vip": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "барбекю": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "вечеринка": {
+      "motor_superyacht": 1.2,
+      "luxury_catamaran": 1.0
+    },
+    "вечеринки": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "гости": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "длительные поездки": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "длительные-поездки": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "длительные/поездки": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "длительныепоездки": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "жить на борту": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "жить-на-борту": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "жить/на/борту": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "житьнаборту": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "имидж": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "комфорт важен": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "комфорт-важен": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "комфорт/важен": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "комфортважен": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "легкие выходы": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "легкие-выходы": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "легкие/выходы": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "легкиевыходы": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "неделя на борту": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "неделя-на-борту": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "неделя/на/борту": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "неделянаборту": {
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_yachts": 1.0,
+      "sail_boat": 1.0
+    },
+    "пати": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "пляж": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "просто покататься": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "просто-покататься": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "просто/покататься": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "простопокататься": {
+      "rib": 1.0,
+      "motorboat": 1.0,
+      "daysailer": 1.0,
+      "weekender": 1.0,
+      "sail_boat": 1.0
+    },
+    "собираемся компанией": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "собираемся-компанией": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "собираемся/компанией": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "собираемсякомпанией": {
+      "motorboat": 1.0,
+      "motor_yacht": 1.0,
+      "motor_catamaran": 1.0,
+      "sailing_catamaran": 1.0,
+      "luxury_catamaran": 1.0
+    },
+    "статус": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    },
+    "тихо спокойно": {
+      "motor_yacht": 0.8,
+      "motor_catamaran": 0.8,
+      "sailing_catamaran": 0.8
+    },
+    "эксклюзив": {
+      "motor_yacht": 1.0,
+      "motor_superyacht": 1.0,
+      "megayacht": 1.0,
+      "luxury_catamaran": 1.0,
+      "sailing_superyacht": 1.0
+    }
+  }
+}
