@@ -218,17 +218,41 @@ export default function LyraIntelligenceChat({ dataBaseUrl = "/lyra-data" }) {
     }
   }
 
-  async function handleSend() {
+  
+async function handleSend() {
     const text = input.trim();
     if (!text || isSending || isFinished) return;
     setIsSending(true);
-    if (mode === "intro") {
-      await new Promise((r) => setTimeout(r, 120));
-      await startQuizWithIntroDescription(text);
-      setInput("");
+    try {
+      if (mode === "intro") {
+        await new Promise((r) => setTimeout(r, 120));
+        await startQuizWithIntroDescription(text);
+        setInput("");
+        return;
+      }
+      if (mode === "quiz" && currentQuestion) {
+        const opts = normalizeOptions(currentQuestion);
+        const n = parseInt(text, 10);
+        if (!Number.isNaN(n) && n >= 1 && n <= opts.length) {
+          await handleOptionClick(opts[n - 1].label);
+          setInput("");
+          return;
+        }
+        const found = opts.find(o => o.label.toLowerCase().startsWith(text.toLowerCase()));
+        if (found) {
+          await handleOptionClick(found.label);
+          setInput("");
+          return;
+        }
+        // no match — give a gentle hint (localized later if needed)
+        pushAssistant("Пожалуйста, выберите вариант ниже или введите его номер (например, 1).");
+        return;
+      }
+    } finally {
+      setIsSending(false);
     }
-    setIsSending(false);
   }
+
 
   function onKeyDown(e) {
     if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); handleSend(); }
@@ -363,7 +387,7 @@ Write to me in the language most comfortable for you - we’ll speak your langua
         {isFinished && (<button onClick={() => window.location.reload()} style={{ marginTop: 10, padding: "6px 12px", borderRadius: 8, border: "1px solid #FFFFFF", backgroundColor: "transparent", color: "#FFFFFF", fontSize: 12, cursor: "pointer", alignSelf: "center" }}>Start Over</button>)}
       </div>
 
-      {!isFinished && mode === "intro" && (
+      {!isFinished && (mode === "intro" || mode === "quiz") && (
         <div style={inputArea}>
           <div style={counter}>{`${charsCapped}/${maxChars}`}</div>
           <textarea ref={textareaRef} value={input} onChange={handleInput} onKeyDown={onKeyDown} placeholder="Tell Me" style={{ ...textarea, fontSize: 12, color: "#FFFFFF", opacity: 1 }} disabled={isFinished} />
